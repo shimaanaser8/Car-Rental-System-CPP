@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1675210012 source:d:\projects code block\self learning projects\final ds\main.cpp
+	<iostream>
+	<string>
+	<windows.h>
+
